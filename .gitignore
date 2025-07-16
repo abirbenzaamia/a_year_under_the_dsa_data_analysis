@@ -1,0 +1,8 @@
+./output_head.json
+./output.json
+./study-1
+./study-2
+./data
+./*.json
+./*.txt
+.DS_Store
